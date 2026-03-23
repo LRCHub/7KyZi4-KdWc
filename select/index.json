@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "EIEN",
+  "base_artist": "Hakos Baelz",
+  "createdAt": "2026-03-23T06:44:02.458532Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eien No Tabi No Naka",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/01_Eien_No_Tabi_No_Naka_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dimana Kamu (feat. Eien)",
+      "artist": "Ren",
+      "has_synced": true,
+      "path": "select/02_Dimana_Kamu_(feat._Eien)_Ren.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Eien Ni [永遠に]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_Eien_Ni_[永遠に]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sakura -Eien-",
+      "artist": "MINMI feat. Shonan No Kaze",
+      "has_synced": false,
+      "path": "select/04_Sakura_-Eien-_MINMI_feat._Shonan_No_Kaze.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eien no Tobira [永遠の扉]",
+      "artist": "Chihiro Yonekura",
+      "has_synced": true,
+      "path": "select/05_Eien_no_Tobira_[永遠の扉]_Chihiro_Yonekura.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "EIEN (Remastered 2022)",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": false,
+      "path": "select/06_EIEN_(Remastered_2022)_L'Arc〜en〜Ciel.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Eien",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": false,
+      "path": "select/07_Eien_L'Arc-en-Ciel.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Adesso e Fortuna ~Honoo to Eien~",
+      "artist": "sherry",
+      "has_synced": true,
+      "path": "select/08_Adesso_e_Fortuna_~Honoo_to_Eien~_sherry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Eien to iu Category",
+      "artist": "hitomi",
+      "has_synced": false,
+      "path": "select/09_Eien_to_iu_Category_hitomi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eien hanahadashii",
+      "artist": "ShishiShishi",
+      "has_synced": true,
+      "path": "select/10_Eien_hanahadashii_ShishiShishi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Eien hanahadashii",
+      "artist": "ShishiShishi",
+      "has_synced": true,
+      "path": "select/11_Eien_hanahadashii_ShishiShishi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Eien Parasites",
+      "artist": "Dehumanizing Itatrain Worship feat. Vulvodynia",
+      "has_synced": false,
+      "path": "select/12_Eien_Parasites_Dehumanizing_Itatrain_Worship_feat._Vulvodynia.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Eien Parasites",
+      "artist": "Dehumanizing Itatrain Worship",
+      "has_synced": false,
+      "path": "select/13_Eien_Parasites_Dehumanizing_Itatrain_Worship.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eien toiu Category",
+      "artist": "hitomi",
+      "has_synced": false,
+      "path": "select/14_Eien_toiu_Category_hitomi.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Adèsso e Fortuna ~Honoo to Eien~ - Lodoss-tou Senki OP",
+      "artist": "sherry",
+      "has_synced": true,
+      "path": "select/15_Adèsso_e_Fortuna_~Honoo_to_Eien~_-_Lodoss-tou_Senki_OP_sherry.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ame Nochi Eien",
+      "artist": "NU'EST",
+      "has_synced": true,
+      "path": "select/16_Ame_Nochi_Eien_NU'EST.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EIEN",
+      "artist": "Hakos Baelz",
+      "has_synced": false,
+      "path": "select/pl_01_EIEN_Hakos_Baelz.txt"
+    }
+  ]
+}
